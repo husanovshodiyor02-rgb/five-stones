@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+@font-face {
+  font-family: "Involve";
+  src: url("/src/assets/fonts/involve-font-family/Involve-Regular-BF65bb0f66a3dc1.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Involve";
+  src: url("/src/assets/fonts/involve-font-family/Involve-Medium-BF65bb0f6716366.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Involve";
+  src: url("/src/assets/fonts/involve-font-family/Involve-SemiBold-BF65bb0f6747dfe.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Involve";
+  src: url("/src/assets/fonts/involve-font-family/Involve-Bold-BF65bb0f66f270b.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "Involve", sans-serif;
+}
