@@ -1,7 +1,7 @@
-import About1 from '../../assets/About1.png'
-import About2 from '../../assets/About2.png'
-import About3 from '../../assets/About3.png'
-import About4 from '../../assets/About4.png'
+import About1 from '../../assets/about1.png'
+import About2 from '../../assets/about2.png'
+import About3 from '../../assets/about3.png'
+import About4 from '../../assets/about4.png'
 import { useTranslation } from "react-i18next";
 
 const About = () => {
