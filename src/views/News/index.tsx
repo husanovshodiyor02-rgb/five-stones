@@ -9,7 +9,7 @@ const News = () => {
   return (
     <section
       id="news"
-      className="max-w-7xl mx-auto px-2 sm:px-10 lg:px-0 py-15"
+      className="max-w-7xl mx-auto px-2 sm:px-10 lg:px-0 py-15 "
     >
       <h3 className="text-[26px] sm:text-[35px] text-[#0f172a] font-bold">
         {t("menu_4")}
