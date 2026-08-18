@@ -17,7 +17,7 @@ const News = () => {
 
       <div className="flex justify-between gap-5 mt-10 overflow-x-auto">
         <div className="shrink-0 w-80 md:w-100">
-          <img className="w-full h-105  md:h-125" src={New1} alt="" />
+          <img className="w-full h-105 md:h-125" src={New1} alt="" />
           <p className="text-[16px] font-semibold text-[rgba(9,37,33,0.8)] pt-5">
             {t("sana_1")}
           </p>
